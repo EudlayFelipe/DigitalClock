@@ -1,12 +1,11 @@
-<h1 align="center">LandingPage_EZDev </h1>
+<h1 align="center">DigitalClock </h1>
 
 
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Status">Status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+ 
 </p>
 
 <p align="center">
@@ -33,15 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Feito a principio para ser usado como portifólio, podendo ser utilizado de forma profissional em um furturo próximo.
-
-## 🟠🟡🟢Status
-
-Ainda em desenvolvimento...
-
-## :memo: Licença
-
-Esse projeto está sob licença deste usuário .
+Aprendendo e botando em prática um pouco de JS
 
 ---
 
