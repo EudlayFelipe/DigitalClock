@@ -19,6 +19,10 @@
 https://eudlayfelipe.github.io/EZDev/
 
 
+## Project Link
+
+https://eudlayfelipe.github.io/DigitalClock/
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
