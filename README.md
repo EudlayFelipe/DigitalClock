@@ -19,7 +19,7 @@
 https://eudlayfelipe.github.io/EZDev/
 
 
-## Project Link
+## 🔗 Project Link
 
 https://eudlayfelipe.github.io/DigitalClock/
 
